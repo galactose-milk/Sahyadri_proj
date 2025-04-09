@@ -87,7 +87,9 @@ chmod +x applauncher.sh
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+Contributions are not allowed as it is a project of a private compant. For more info contact developers.
+
+Under any possibility using this repo can be penalized under legal charges without the permission of and/or developers , Company.The Developers/Compant have rights to Penalize under unauthorized usage.
 
 ## License
 
